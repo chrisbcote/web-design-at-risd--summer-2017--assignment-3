@@ -4,9 +4,19 @@ h1 {
    color: red;
    margin: auto;
    padding: 30px;
+   background-color: yellow;
 }
 
 .dieter {
    color: black;
    text-align: right;
+}
+
+h2 {
+   font-family: 'Karla', sans-serif;
+   font-weight: 700;
+   font-size: 180px;
+   color: blue;
+   margin: auto;
+   padding: 30px;
 }
