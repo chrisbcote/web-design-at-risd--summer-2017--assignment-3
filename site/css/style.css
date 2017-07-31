@@ -8,7 +8,7 @@ h1 {
 }
 
 .dieter {
-   color: blue;
+   color: black;
    text-align: right;
 }
 
@@ -16,7 +16,7 @@ h2 {
    font-family: 'Karla', sans-serif;
    font-weight: 700;
    font-size: 180px;
-   color: blue;
+   color: black;
    margin: auto;
    padding: 30px;
 }
