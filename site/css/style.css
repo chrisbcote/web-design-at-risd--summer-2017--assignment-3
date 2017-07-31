@@ -9,13 +9,22 @@ h1 {
 
 .dieter {
    color: black;
-   text-align: right;
+   float: right;
 }
 
 h2 {
    font-family: 'Karla', sans-serif;
    font-weight: 700;
    font-size: 180px;
+   color: black;
+   margin: auto;
+   padding: 30px;
+}
+
+h3 {
+   font-family: 'Karla', sans-serif;
+   font-weight: 700;
+   font-size: 40px;
    color: black;
    margin: auto;
    padding: 30px;
